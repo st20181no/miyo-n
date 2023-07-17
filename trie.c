@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 #define NUM 26
-
+aaa
 typedef struct node {
     struct node *next[NUM];
     int last;
@@ -98,4 +98,5 @@ int main(void){
     }
 
     return 0;
+    printf("jhdued");
 }
